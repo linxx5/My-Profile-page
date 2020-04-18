@@ -1,0 +1,97 @@
+.{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+body{
+    text-align: center;
+    color: auto;
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    color: auto;
+}
+
+h2{
+    text-align: center;
+    color: auto;
+}
+
+img{
+    display: block;
+    float: center;
+    width: 150px;
+    border-radius: 4px;
+    padding: 40px;
+    margin: auto;
+    transform: rotate(-90deg);
+
+}
+
+div {
+    padding: 10px 10px 10px 10px;
+
+    }    
+
+    .content{
+        clear: #535274;
+        letter-spacing: 1px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        text-align: center;
+       
+    }
+
+    h2{
+        clear: #535274;
+        letter-spacing: 1px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        text-align: center;
+       
+
+    }
+.Contact-Me{
+    width: 250px;
+    background: #fff;
+    padding: 50px;
+    margin: 100px auto;
+    border-radius: 30px;
+    position: relative;
+}
+.stuff h2{
+    clear: #535274;
+    letter-spacing: 5px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.form,
+.form-stuffs{
+    width: 100%;
+
+}
+
+.form-stuffs.input{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px 40px;
+    box-sizing: border-box;
+    background: #ebeef1;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    resize: none;
+}
+
+.button{
+    background: #827ffe;
+    text-align: center;
+    color: #fff;
+    padding: 12px;
+    border-radius: 25px;
+    cursor: pointer;
+    resize: inherit;
+}
